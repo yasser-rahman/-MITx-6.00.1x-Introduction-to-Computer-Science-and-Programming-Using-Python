@@ -1,3 +1,22 @@
+
+# Problem 1 - Is the Word Guessed
+
+# Example Usage:
+
+# secretWord = 'apple' 
+# lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+# print(isWordGuessed(secretWord, lettersGuessed))
+# False
+
+
+
+
+
+
+
+
+
+
 def isWordGuessed(secretWord, lettersGuessed):
     '''
     secretWord: string, the word the user is guessing
