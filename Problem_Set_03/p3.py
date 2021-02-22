@@ -1,4 +1,11 @@
+# Problem 3 - Printing Out all Available Letters
 
+#Example Usage:
+'''
+lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+print(getAvailableLetters(lettersGuessed))
+abcdfghjlmnoqtuvwxyz
+'''
 
 
 
