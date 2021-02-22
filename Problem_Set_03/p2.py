@@ -1,3 +1,15 @@
+# Problem 2 - Getting the User's Guess
+
+# Example Usage:
+
+# secretWord = 'apple' 
+# lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+# print(getGuessedWord(secretWord, lettersGuessed))
+#'_ pp_ e'
+
+
+
+
 def getGuessedWord(secretWord, lettersGuessed):
     '''
     secretWord: string, the word the user is guessing
